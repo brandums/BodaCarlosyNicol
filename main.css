@@ -15,7 +15,7 @@
   --base: #fbfbfb;
   --base-2: #fbfbfb;
   --base-3: #fbfbfb;
-  --accent: #f0c4a8;
+  --accent: #5F6F4C;
   --v2-color-boda: #97A97C;
   --gb-container-width: 1200px;
 }
@@ -1757,12 +1757,12 @@
 
 .elementor-element.elementor-button-success .elementor-button,
 .elementor-widget-button .elementor-button .elementor-button-success {
-  background-color: #f0c4a8;
+  background-color: #5F6F4C;
 }
 
 .elementor-element.elementor-button-warning .elementor-button,
 .elementor-widget-button .elementor-button .elementor-button-warning {
-  background-color: #f0c4a8;
+  background-color: #5F6F4C;
 }
 
 .elementor-element.elementor-button-danger .elementor-button,
@@ -1918,14 +1918,11 @@
 
 .elementor-1947 .elementor-element.elementor-element-21f0bc0>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer,
 .elementor-1947 .elementor-element.elementor-element-21f0bc0:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap {
-  background-image: url("https://vogastudios.com/wp-content/uploads/2025/08/flor-2.png");
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-size: 26% auto;
+  /* removed background-image flor-2 */
 }
 
 .elementor-1947 .elementor-element.elementor-element-21f0bc0>.elementor-element-populated>.elementor-background-overlay {
-  background-image: url("https://vogastudios.com/wp-content/uploads/2025/08/flor-3.png");
+  background-image: none;
   background-position: bottom right;
   background-repeat: no-repeat;
   background-size: 30% auto;
@@ -1940,8 +1937,9 @@
 
   .elementor-1947 .elementor-element.elementor-element-21f0bc0>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer,
   .elementor-1947 .elementor-element.elementor-element-21f0bc0:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap {
-    background-image: url("images/iniciotop.png");
+    background-image: url("images/iniciotop.svg");
     background-position: top center;
+    background-repeat: no-repeat;
     background-size: 100% auto;
   }
 
@@ -2031,7 +2029,7 @@
   font-family: "Great Vibes", Sans-serif;
   font-size: 7em;
   font-weight: 300;
-  color: #f0c4a8;
+  color: #5F6F4C;
 }
 
 .elementor-1947 .elementor-element.elementor-element-5836722 .elementor-heading-title,
@@ -2039,7 +2037,7 @@
   font-family: Cormorant, Sans-serif;
   font-size: 3em;
   font-weight: 500;
-  color: #f0c4a8;
+  color: #5F6F4C;
 }
 
 .elementor-widget-button .elementor-button {
@@ -2134,7 +2132,7 @@
   font-family: Cormorant, Sans-serif;
   font-size: 2em;
   font-weight: 600;
-  color: #f0c4a8;
+  color: #5F6F4C;
 }
 
 .elementor-1947 .elementor-element.elementor-element-ce6434f .elementor-heading-title,
@@ -2177,7 +2175,7 @@
 }
 
 .elementor-1947 .elementor-element.elementor-element-f49c2fa>.elementor-element-populated {
-  border: 1px solid #f0c4a8;
+  border: 1px solid #5F6F4C;
 }
 
 .elementor-1947 .elementor-element.elementor-element-2784087>.elementor-background-slideshow,
@@ -2243,7 +2241,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
 }
 
 .elementor-1947 .elementor-element.elementor-element-ed7f28e .elementor-countdown-label {
-  color: #f0c4a8;
+  color: #5F6F4C;
   font-family: Cormorant, Sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -2291,7 +2289,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
   font-size: 3em;
   font-weight: 300;
   line-height: 82px;
-  color: #f0c4a8;
+  color: #fff;
 }
 
 .elementor-1947 .elementor-element.elementor-element-3775b91 .elementor-heading-title {
@@ -2299,15 +2297,12 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
   font-size: 2em;
   font-weight: 300;
   line-height: 24px;
-  color: #f0c4a8;
+  color: #fff;
 }
 
 .elementor-1947 .elementor-element.elementor-element-44754d4>.elementor-motion-effects-container>.elementor-motion-effects-layer,
 .elementor-1947 .elementor-element.elementor-element-44754d4:not(.elementor-motion-effects-element-type-background) {
-  background-image: url("https://vogastudios.com/wp-content/uploads/2025/08/flor.png");
-  background-position: center right;
-  background-repeat: no-repeat;
-  background-size: 11% auto;
+  /* removed background-image flor.png */
 }
 
 .elementor-1947 .elementor-element.elementor-element-44754d4>.elementor-container,
@@ -2319,7 +2314,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
   font-family: "Great Vibes", Sans-serif;
   font-size: 3em;
   font-weight: 300;
-  color: #f0c4a8;
+  color: #5F6F4C;
 }
 
 .elementor-1947 .elementor-element.elementor-element-6d498bf .elementor-heading-title,
@@ -2328,7 +2323,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
   font-family: Cormorant, Sans-serif;
   font-size: 1.5em;
   font-weight: 600;
-  color: #f0c4a8;
+  color: #5F6F4C;
 }
 
 .elementor-1947 .elementor-element.elementor-element-5802888 img,
@@ -2353,7 +2348,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
 .elementor-1947 .elementor-element.elementor-element-2e2d776>.elementor-element-populated,
 .elementor-1947 .elementor-element.elementor-element-e0088b3>.elementor-element-populated,
 .elementor-1947 .elementor-element.elementor-element-ef69154>.elementor-element-populated {
-  border: 1px solid #f0c4a8;
+  border: 1px solid #5F6F4C;
   transition:
     background 0.3s,
     border 0.3s,
@@ -2378,7 +2373,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
   font-family: "Great Vibes", Sans-serif;
   font-size: 2.5em;
   font-weight: 300;
-  color: #f0c4a8;
+  color: #5F6F4C;
 }
 
 .elementor-1947 .elementor-element.elementor-element-293d8dc .elementor-heading-title,
@@ -2413,7 +2408,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
   font-family: "Great Vibes", Sans-serif;
   font-size: 4em;
   font-weight: 300;
-  color: #f0c4a8;
+  color: #5F6F4C;
 }
 
 .elementor-1947 .elementor-element.elementor-element-1385a25,
@@ -2632,10 +2627,7 @@ body:not(.rtl) .elementor-1947 .elementor-element.elementor-element-ed7f28e .ele
 
 .elementor-1947 .elementor-element.elementor-element-c6927de>.elementor-motion-effects-container>.elementor-motion-effects-layer,
 .elementor-1947 .elementor-element.elementor-element-c6927de:not(.elementor-motion-effects-element-type-background) {
-  background-image: url("https://vogastudios.com/wp-content/uploads/2025/08/flor.png");
-  background-position: center right;
-  background-repeat: no-repeat;
-  background-size: 17% auto;
+  /* removed background-image flor.png */
 }
 
 .elementor-widget-form .elementor-button {
@@ -4796,7 +4788,8 @@ body {
 
   .elementor-1947 .elementor-element.elementor-element-21f0bc0>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer,
   .elementor-1947 .elementor-element.elementor-element-21f0bc0:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap {
-    background-image: url("images/iniciotop.png");
+    background-image: url("images/iniciotop.svg");
+    background-repeat: no-repeat;
     background-size: 100% auto;
   }
 
@@ -5546,4 +5539,22 @@ body:not(.elementor-editor-active) #v2-capa-bloqueo {
 
 .gb-highlight {
   background: 0 0;
+}
+
+/* Custom enlarged text sizes */
+.custom-parents-text {
+  font-size: 1.8em !important;
+}
+
+.custom-no-kids-text {
+  font-size: 1.5em !important;
+}
+
+@media (max-width: 767px) {
+  .custom-parents-text {
+    font-size: 1.3em !important;
+  }
+  .custom-no-kids-text {
+    font-size: 1.1em !important;
+  }
 }

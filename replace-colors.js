@@ -5,7 +5,8 @@ let css = fs.readFileSync(cssPath, 'utf8');
 
 const colorMap = {
     // Rosa champagne suave -> Rosa champagne con más color
-    '#f8decd': '#f0c4a8',
+    '#f8decd': '#5F6F4C',
+    '#f0c4a8': '#5F6F4C',
 };
 
 let replaceCount = 0;
